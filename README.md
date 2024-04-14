@@ -1,6 +1,8 @@
 # Projeto de Atividade Final - Módulo III de Front End Growdev
+[Link para o projeto](https://apirickandmorty-growdev-atv.netlify.app/)
 
 ![Imagem do projeto](./image/screenshot.jpeg)
+
 
 Este é o projeto final do Módulo III de Front End da Growdev. O projeto consiste em uma aplicação web que exibe informações sobre personagens da série de TV "Rick and Morty". Utiliza-se a API pública do Rick and Morty para obter os dados dos personagens, episódios e localizações.
 
