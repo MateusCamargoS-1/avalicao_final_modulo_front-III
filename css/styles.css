@@ -91,6 +91,11 @@ main {
     color: #f1f1f1;
     margin-bottom: 40px;
     animation: toBottom 3s cubic-bezier(0.075, 0.82, 0.165, 1) forwards;
+    transition: transform 0.1s;
+}
+
+.card:hover {
+    transform: scale(1.01);
 }
 
 .card img {
