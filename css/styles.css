@@ -165,6 +165,10 @@ main {
     background-color: #105718;
 }
 
+.page-item button {
+    box-shadow: none !important;
+}
+
 /* MODAL */
 .modal-content {
     color: #f1f1f1;
